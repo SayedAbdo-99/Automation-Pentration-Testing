@@ -1,0 +1,2 @@
+# Automation-Pentration-Testing
+Description: I used some Python tools and libraries (Metasploit and Nmap) to create a simple penetration testing system. Now, I'm trying to improve it to make it fully automated. Target: During my military service, they asked me for an application that scans for vulnerabilities in devices. Now I am trying to make it a service that all programmers use to protect their devices or companies. Tools and Techniques: Python, pymetasploit3, nmap, and Linux.
